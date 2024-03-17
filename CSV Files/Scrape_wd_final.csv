@@ -1,0 +1,583 @@
+Number,Id,Title,Upvotes,Upvote Ratio,Comments,Timestamp,Total Votes,Downvotes,Engagement
+1,1ag9d28,Monthly Getting Started / Web Dev Career Thread,13,0.94,67,2024-02-01 12:00:23,13,0,80
+2,1aqj9nh,I'm a Web Dev not a master of all programming languages.,281,0.93,144,2024-02-14 09:51:52,302,21,446
+3,1aqdo9m,How do you convince a restaurant that only uses Facebook that a website woild be beneficial?,70,0.77,101,2024-02-14 03:58:54,90,20,191
+4,1aq46q4,"Domain expired: played the long game, now what",194,0.95,46,2024-02-13 20:51:35,204,10,250
+5,1aqd333,What's the most tedious mind numbing part of web dev?,52,0.92,105,2024-02-14 03:27:44,56,4,161
+6,1apxsta,The 10 step process to blow $50k on simple website content updates.,231,0.96,40,2024-02-13 16:36:54,240,9,280
+7,1aqkea5,Enlighten me about mobile-first,5,0.86,12,2024-02-14 11:07:50,5,0,17
+8,1aqlh1k,How would I go about creating something like this interactive website intro.,4,0.83,2,2024-02-14 12:13:40,4,0,6
+9,1aqpwop,Looking for a very specific solution - keep focus when resizing.,2,1.0,2,2024-02-14 15:43:28,2,0,4
+10,1aqnz15,How to integrate existing catalogue mailing list into new ecommerce signups,2,1.0,0,2024-02-14 14:20:26,2,0,2
+11,1aqnobp,Improving Web Observability with Sentry's new approach to source maps,2,1.0,0,2024-02-14 14:06:37,2,0,2
+12,1aqdofw,How do you keep up with tasks?,11,0.83,16,2024-02-14 03:59:09,13,2,29
+13,1aqd3vx,How would you make this? CSS or make it as an Image?,11,0.88,13,2024-02-14 03:28:58,12,1,25
+14,1aqmx3t,Targeting specific images within css bg to move with a slider,2,1.0,0,2024-02-14 13:30:53,2,0,2
+15,1aqltmo,Limit max-width for hero background images on wide monitors or not?,3,0.71,8,2024-02-14 12:33:12,4,1,12
+16,1aqjffb,Etiquette for 'hotlinking' vs 'reproducing' (fully-attributed either way)?,3,1.0,2,2024-02-14 10:03:12,3,0,5
+17,1aqlhoa,New Travel Agency Website,2,0.75,12,2024-02-14 12:14:40,2,0,14
+18,1aqq8yv,I've recently been accepted onto a code nation course.,1,0.99,0,2024-02-14 15:58:00,1,0,1
+19,1aqq2ar,Advise for a tech stack,2,1.0,0,2024-02-14 15:50:10,2,0,2
+20,1aqkm85,Help: facing 404 error when I run using webpack-dev-server,2,1.0,1,2024-02-14 11:21:44,2,0,3
+21,1aqkksi,Best way to set up my workflow for my site with multiple devs,2,1.0,0,2024-02-14 11:19:22,2,0,2
+22,1aqhcdc,How to use cache in cloudflare workers · Newbeelearn,5,1.0,0,2024-02-14 07:32:40,5,0,5
+23,1aprjzi,Help me convince my boss that we're not charging enough,148,0.9,83,2024-02-13 11:46:07,164,16,247
+24,1aq3djo,Is gravatar still a thing?,27,0.87,15,2024-02-13 20:18:33,31,4,46
+25,1aqf7ly,Where to start on project?,5,1.0,13,2024-02-14 05:20:55,5,0,18
+26,1aqj52y,Azure Frontdoor rain fires 403,2,1.0,0,2024-02-14 09:42:35,2,0,2
+27,1apogxt,Do You Even Leet Code?,193,0.88,238,2024-02-13 08:11:53,219,26,457
+28,1aqhxlh,Should I be worried?,1,0.57,4,2024-02-14 08:13:42,1,0,5
+29,1aqhs5l,The High-Risk Refactoring,2,1.0,0,2024-02-14 08:03:24,2,0,2
+30,1apyplh,Is the use of emojis in web design a bad practice?,28,0.74,81,2024-02-13 17:13:00,37,9,118
+31,1aqkgf6,Help Needed: Choosing Between Namecheap and Cloudflare for Domain Registration,0,0.5,3,2024-02-14 11:11:30,0,0,3
+32,1aqgosz,Controlling bots within time windows,2,0.75,2,2024-02-14 06:49:43,2,0,4
+33,1aqjtm0,Contact Form 7 in HTML or alternatives?,1,0.67,6,2024-02-14 10:30:16,1,0,7
+34,1aqjpt9,"What is the best way to locally test/use a webpage with that makes use of ""secure"" features?",1,0.6,6,2024-02-14 10:23:03,1,0,7
+35,1aqe350,What do you call this design style? Gen-Z??,3,0.57,6,2024-02-14 04:19:45,5,2,11
+36,1aqfz72,How should I host my site?,2,0.6,13,2024-02-14 06:05:25,3,1,16
+37,1aqfk78,Node library for easily implementing Relay cursor pagination with Knex queries,2,1.0,0,2024-02-14 05:41:06,2,0,2
+38,1aptaxq,How Google solved authorization globally across all its products,37,0.81,17,2024-02-13 13:20:30,45,8,62
+39,1apvxoa,What is the best way to embed a whole webpage into a website?,29,0.79,40,2024-02-13 15:20:59,36,7,76
+40,1aqhod8,"Where to host commercial POS system(vue, node, mysql) app, and how.",1,0.67,0,2024-02-14 07:56:35,1,0,1
+41,1aqalbo,How much uptime can I afford?,3,0.62,3,2024-02-14 01:25:09,4,1,7
+42,1aqd66o,Permission error when using yarn add,2,1.0,0,2024-02-14 03:32:17,2,0,2
+43,1apht60,Loving Laravel after being a MERN developer,178,0.93,63,2024-02-13 02:02:29,191,13,254
+44,1aqaera,Website Safe Search,3,1.0,0,2024-02-14 01:16:31,3,0,3
+45,1ap7geh,How do I force myself to work if I feel exhausted and burned out before I even open my laptop?,502,0.94,199,2024-02-12 18:46:14,534,32,733
+46,1aq3vzd,Self-hosting code demos a la a Codesandbox.io?,4,0.84,1,2024-02-13 20:39:21,4,0,5
+47,1aqd66r,Permission error when using yarn add,1,0.67,1,2024-02-14 03:32:17,1,0,2
+48,1apq5v8,Best cloud platform for budget dev?,24,0.9,28,2024-02-13 10:14:28,26,2,54
+49,1aple73,Express.js Spam PRs Incident Highlights the Commoditization of Open Source,60,0.92,17,2024-02-13 05:00:52,65,5,82
+50,1apxjg0,🐽 Oink: An API for PHP in a single file,5,0.74,2,2024-02-13 16:26:24,6,1,8
+51,1aq7gj6,An Overview of Distributed PostgreSQL Architectures,3,0.8,1,2024-02-13 23:06:00,3,0,4
+52,1aqcbos,Bare Metal + Plesk… did I *uck up!,0,0.5,0,2024-02-14 02:49:38,0,0,0
+53,1aq78u2,Interactive FlexBox Demo If You Don't Want To Memorize The Attributes.,3,1.0,0,2024-02-13 22:57:14,3,0,3
+54,1aq3tt1,Framework Logos,3,1.0,4,2024-02-13 20:36:45,3,0,7
+55,1aq5he1,Please Help Recommend Light-Weight Website Builder,2,0.75,4,2024-02-13 21:44:12,2,0,6
+56,1aprrst,"I know it's a rookie question, but with a software and web development company, how are the specific needs and capabilities ""discussed"" beforehand with the client who orders the software?",11,0.83,19,2024-02-13 11:59:14,13,2,32
+57,1apmqq7,What's the best way to make sure a user can only update their own records in my API?,33,0.85,23,2024-02-13 06:16:25,38,5,61
+58,1aq4sh7,Socket Project Reports v0 Deprecation,2,1.0,0,2024-02-13 21:16:05,2,0,2
+59,1aq9hjh,"I want to create a review website for online content, the type of content I want is hard to find. I want users to be able to post websites, but I'm users might link malicious content. What is a good work around solution?",1,0.67,2,2024-02-14 00:33:09,1,0,3
+60,1aq83zc,Local alternatives to postman that can run postman collections?,1,0.66,0,2024-02-13 23:33:36,1,0,1
+61,1aq7f3p,Is bubble sustainable to do freelancing,0,0.43,1,2024-02-13 23:04:19,0,0,1
+62,1aq6iui,Planning Projects: What's your go to?,2,1.0,4,2024-02-13 22:27:24,2,0,6
+63,1aq4zdj,Web Bluetooth on Chrome for Android,2,1.0,0,2024-02-13 21:23:42,2,0,2
+64,1apr4it,"Deploying my first-ever project, a daily textual update: am I going about it the right way?",8,1.0,1,2024-02-13 11:19:05,8,0,9
+65,1apyt3c,Fastify Fundamentals: Building Your First Route,2,0.67,0,2024-02-13 17:16:53,2,0,2
+66,1apyfgb,Optimizing Safe Browsing checks in Chrome,2,0.76,0,2024-02-13 17:01:53,2,0,2
+67,1aq3pzi,Looking for a React library for a gallery.,1,0.6,0,2024-02-13 20:32:25,1,0,1
+68,1aq3mci,How can i make a website like this?,0,0.44,16,2024-02-13 20:28:25,0,0,16
+69,1apwzn9,Refactoring Legacy Code with the Strangler Fig Pattern,2,0.67,1,2024-02-13 16:04:30,2,0,3
+70,1aps2wt,How is the process of transferring domain names done?,4,0.84,2,2024-02-13 12:16:51,4,0,6
+71,1aq7i84,Help me figure out why this site isn't pointing / is throwing a 404?,0,0.4,1,2024-02-13 23:08:03,0,0,1
+72,1aq1urz,Envio - A Modern and Secure CLI Tool for Managing Environment Variables,2,1.0,0,2024-02-13 19:17:01,2,0,2
+73,1aqa5ep,Is there a git site I can use to practice uploading a site into netify?,0,0.36,8,2024-02-14 01:04:21,0,0,8
+74,1aqely7,Best/easiest way to put up content without doing it myself?,0,0.25,10,2024-02-14 04:47:47,0,0,10
+75,1apvtsv,"Modular, Component-Specific CSS Styling in Basic HTML/CSS",2,0.76,1,2024-02-13 15:16:32,2,0,3
+76,1apqznz,Is there a place to search for words within domain name strings?,5,0.86,3,2024-02-13 11:10:27,5,0,8
+77,1apuy2g,Suggestions for mobile wrapper for a Next js app,2,0.76,2,2024-02-13 14:37:22,2,0,4
+78,1apuwsk,Can I get a php roadmap for web development,2,0.58,14,2024-02-13 14:35:41,3,1,17
+79,1apn5ho,What's the best way to check accessibility of your code for visually impaired peoples?,9,0.85,21,2024-02-13 06:41:50,10,1,31
+80,1apztml,Express.js Spam PRs Incident Highlights the Commoditization of Open Source Contributions,1,0.67,0,2024-02-13 17:57:01,1,0,1
+81,1aprbnn,Immutable array updates with Array.prototype.with,3,1.0,1,2024-02-13 11:31:39,3,0,4
+82,1apoxku,CSS_BOX. A better way to write CSS,6,0.87,0,2024-02-13 08:45:11,6,0,6
+83,1apquhp,Youtube Data API promoted video statistics,3,1.0,1,2024-02-13 11:01:10,3,0,4
+84,1aq3m7g,API for retrieving photos from a location,0,0.4,6,2024-02-13 20:28:15,0,0,6
+85,1apwzkh,Solutions for database read only,1,0.67,3,2024-02-13 16:04:24,1,0,4
+86,1aprwsw,Simple Apps,2,1.0,0,2024-02-13 12:06:52,2,0,2
+87,1appvan,MacBook and Windows laptop both do not go to sleep (Chrome issue),3,0.71,1,2024-02-13 09:53:42,4,1,5
+88,1apj4z2,Orphaned a domain and have to preserve email DNS records,10,1.0,16,2024-02-13 03:06:01,10,0,26
+89,1aq0pcc,How To Center a Div,0,0.33,2,2024-02-13 18:31:50,0,0,2
+90,1apokq7,Documents needed for starting out freelance web dev service,3,1.0,2,2024-02-13 08:19:35,3,0,5
+91,1ap7z8c,The noobie AWS deployment experience (PAIN),34,0.85,42,2024-02-12 19:07:09,40,6,82
+92,1apuezk,We tried to build an AirBnB clone in less than 1 hour,1,0.6,0,2024-02-13 14:12:53,1,0,1
+93,1apz31x,Anyone know why this website was shut down?,0,0.5,6,2024-02-13 17:27:59,0,0,6
+94,1ap7xad,Weird things engineers believe about Web development,27,0.76,7,2024-02-12 19:05:02,35,8,42
+95,1apsnao,The Unreasonable Effectiveness of Simple Websites,1,0.57,0,2024-02-13 12:47:22,1,0,1
+96,1aqc1t7,Would you study Web Design now with AI being capable of making websites?,0,0.12,11,2024-02-14 02:35:52,0,0,11
+97,1apkx8w,Rebuild from legacy archive?,4,1.0,3,2024-02-13 04:35:53,4,0,7
+98,1aprgnl,Looking to collaborate with fellow freelancers,0,0.4,2,2024-02-13 11:40:30,0,0,2
+99,1aq7va2,I’m currently a cs student but wondering to be the most employable right now which framework has the most jobs: Node or springboot?,0,0.3,18,2024-02-13 23:23:16,0,0,18
+100,1apqu2y,Looking for APIs similar to Bing Copilot or Google Bard (Gemini),1,0.67,2,2024-02-13 11:00:35,1,0,3
+101,1apn9ho,Best practice for communicating error codes and types between frontend and backend?,2,0.75,2,2024-02-13 06:48:38,2,0,4
+102,1ap32ng,How to handle Responsive fontsize without mq?,33,0.89,40,2024-02-12 15:50:28,37,4,77
+103,1appzah,Is there a way to include the Content Management System in my React app without usage of Backend?,0,0.5,2,2024-02-13 10:01:41,0,0,2
+104,1appktu,What’s your opinion on Luis Bizzaro course “Building an immersive creative website from scratch without frameworks”?,0,0.5,2,2024-02-13 09:32:25,0,0,2
+105,1apy97x,I am building a training app. I'd like to have profile images tied to each bot I make. Anyone know of cheap tool I can use to do this?,0,0.25,4,2024-02-13 16:55:08,0,0,4
+106,1apkdc7,Any meet-ups in NYC?,2,0.75,0,2024-02-13 04:06:57,2,0,2
+107,1ap0fcu,What's the most important part of your design > dev handoff?,20,0.81,33,2024-02-12 13:49:22,24,4,57
+108,1apepuc,Running no caching on my dynamic wordpress news blog,4,0.83,10,2024-02-12 23:39:36,4,0,14
+109,1app4n3,Epic games store (CEF so web-dev),0,0.38,5,2024-02-13 08:59:57,0,0,5
+110,1ape44f,Sending events from frontend-->backend in Tauri,3,1.0,2,2024-02-12 23:13:44,3,0,5
+111,1apgmfi,"Building widget for third-parties, iframe vs. inject html/css/scripts?",2,1.0,3,2024-02-13 01:05:58,2,0,5
+112,1apgit3,JSDOM is not running javascript,2,1.0,0,2024-02-13 01:01:14,2,0,2
+113,1ap4eqv,Where do you go to network?,10,0.92,19,2024-02-12 16:45:11,10,0,29
+114,1apfkjy,Versioning/audition only specific columns in MariaDB (without triggers?),2,1.0,0,2024-02-13 00:17:18,2,0,2
+115,1apurpp,how make a marketplace ?,0,0.17,8,2024-02-13 14:29:13,0,0,8
+116,1apj3op,How do you send (wire) funds to a bank account?,1,0.6,3,2024-02-13 03:04:19,1,0,4
+117,1apaha3,anyone's workplace using unbundled client ?,3,0.72,0,2024-02-12 20:45:18,4,1,4
+118,1apdcl4,Advice Sought: platform for new simple user directory,2,1.0,0,2024-02-12 22:41:25,2,0,2
+119,1aphw2l,"Keep failing trying to make my personal project, should I just follow tutorials for a while?",0,0.5,7,2024-02-13 02:06:13,0,0,7
+120,1apm0sy,"What's the dofference between Cookie, Set-cookie and set-cookie2 in Http headers?",0,0.36,5,2024-02-13 05:34:54,0,0,5
+121,1apc6kw,Suggestions for which area to side hustle?,2,0.75,4,2024-02-12 21:53:20,2,0,6
+122,1aovk2e,Lightweight cloud platform like Railway but I get an actual VPS,21,0.92,27,2024-02-12 08:44:51,22,1,49
+123,1ap7fk6,Architecture solution for scheduling,3,0.81,2,2024-02-12 18:45:19,3,0,5
+124,1apfvft,Looking for some advice for building front ends,0,0.5,14,2024-02-13 00:31:24,0,0,14
+125,1apslpy,How can I use AI in my Webapps?,0,0.26,20,2024-02-13 12:45:11,0,0,20
+126,1aobw5s,Finally liberated from Godaddy,339,0.96,74,2024-02-11 16:28:04,353,14,427
+127,1aoojl8,Can you work on personal projects on your personal laptop but at company office?,55,0.72,120,2024-02-12 01:47:27,76,21,196
+128,1ap2d9y,Good Headless CMS for internationalisation needed,3,0.81,6,2024-02-12 15:19:45,3,0,9
+129,1ap4lgt,What (besides long-running javascript or layout) can cause frames to drop?,3,0.72,6,2024-02-12 16:52:43,4,1,10
+130,1aojuh6,10 Things Software Developers Should Learn about Learning,94,0.91,4,2024-02-11 22:02:30,103,9,107
+131,1aox92n,Invisible date input triggers form validation when `.showPicker()` is called,8,0.67,7,2024-02-12 10:46:44,11,3,18
+132,1ap4818,How should I be handling dependencies in my own npm package?,3,0.81,2,2024-02-12 16:37:40,3,0,5
+133,1apb5jm,Loading text question,1,0.67,3,2024-02-12 21:11:43,1,0,4
+134,1apae53,instagram page for community support - auto poster,0,0.5,0,2024-02-12 20:41:52,0,0,0
+135,1apadsz,Looking to move from current dedicated host to Amazon hosting - looking for some help,1,0.6,8,2024-02-12 20:41:30,1,0,9
+136,1ap6id6,"Recently migrated site to SiteGround. Code like <!--#include virtual=""header.php""--> works on some pages, but doesn't work on others and I'm not sure why.",1,1.0,1,2024-02-12 18:08:54,1,0,2
+137,1ap0t33,Difficulty modifying request headers with declarativeNetRequest,2,0.67,2,2024-02-12 14:07:56,2,0,4
+138,1ap5xv5,Modern PHP/mySQL Web hosting?,0,0.5,9,2024-02-12 17:46:20,0,0,9
+139,1ap5i3s,"What is ""response"" in fetch();",1,0.67,1,2024-02-12 17:28:39,1,0,2
+140,1ao7y9c,"I made a web app that creates handwritten-style cards for your messages, to send to your loved ones (link in the comments)",168,0.97,15,2024-02-11 13:27:56,173,5,188
+141,1ap45ii,Aceternity: UI library for building landing pages,0,0.5,1,2024-02-12 16:34:46,0,0,1
+142,1aojrtp,Why does one page of my blog get so much spam?,31,0.94,24,2024-02-11 21:59:33,32,1,56
+143,1aokq5r,Is 450-500ms a reasonable time for a very simple create/delete action?,25,0.85,15,2024-02-11 22:39:59,29,4,44
+144,1apgnzq,Looking to hire a web developer,0,0.18,4,2024-02-13 01:08:05,0,0,4
+145,1ap1122,Chrome developer console showing reddit job ads and freezing Chrome,1,0.56,1,2024-02-12 14:18:25,1,0,2
+146,1ao9zoj,It's not microservice or monolith; it's cognitive load you need to understand first,68,0.92,14,2024-02-11 15:06:21,73,5,87
+147,1aoudye,Developing a Custom Order Management System or Integrating an Existing One,3,1.0,2,2024-02-12 07:21:54,3,0,5
+148,1aoljkd,I've developed an npm package to automate internationalization,13,0.81,1,2024-02-11 23:15:58,16,3,17
+149,1aozoao,Can running bcrypt on client side (Next JS) break the website on specific devices?,1,1.0,0,2024-02-12 13:10:47,1,0,1
+150,1ao9nqw,Copilot has something to say - It's had enough of spaghetti code?,52,0.93,3,2024-02-11 14:51:41,55,3,58
+151,1ap7frd,Can you still get Frontpage without getting a virus?,0,0.45,17,2024-02-12 18:45:31,0,0,17
+152,1anpyg4,"I'm building an open-source, non-profit, 100% ad-free alternative to Reddit, taking inspiration from other non-profits like Wikipedia and Signal",1170,0.96,285,2024-02-10 20:45:52,1218,48,1503
+153,1aor8rr,Build our own (small) CMS or customize an existing one?,2,0.67,30,2024-02-12 04:17:51,2,0,32
+154,1aosvdp,Envio - A Modern and Secure CLI Tool for Managing Environment Variables,2,0.67,0,2024-02-12 05:47:21,2,0,2
+155,1aoj92d,"9 SECONDS Banner Video for a home page, max file size?",11,0.87,9,2024-02-11 21:36:56,12,1,21
+156,1ao301i,"When ""Everything"" Becomes Too Much: The npm Package Chaos of 2024",101,0.86,19,2024-02-11 08:06:00,117,16,136
+157,1aov719,NextJS courses that worth?,0,0.38,4,2024-02-12 08:18:43,0,0,4
+158,1aoaa9x,Starting as a freelance web developer and want to offer hosting services: who would you go with?,22,0.78,27,2024-02-11 15:19:33,28,6,55
+159,1ao9s10,Google reCaptcha site key abuse,21,0.81,13,2024-02-11 14:57:16,25,4,38
+160,1aoudxi,Help with detecting spam emails,1,0.6,7,2024-02-12 07:21:51,1,0,8
+161,1aou8y6,VueJs or SvelteJs?,1,0.52,54,2024-02-12 07:12:37,1,0,55
+162,1aocqi1,Recommendations to quickly spin up a a CRUD Backend with a Frontend Auth (Vue or Angular),13,0.82,20,2024-02-11 17:03:06,15,2,35
+163,1aotufd,Collection of Basic HTML Themes (i.e. Markdown Themes)?,0,0.5,1,2024-02-12 06:46:05,0,0,1
+164,1ao6ahi,Is passwordless email verification code Auth a good move?,31,0.83,25,2024-02-11 11:52:32,37,6,62
+165,1aobqki,How do you make your personal projects?,11,0.79,21,2024-02-11 16:21:40,13,2,34
+166,1ap8u9p,Which GPT would best suit me?,0,0.23,11,2024-02-12 19:41:26,0,0,11
+167,1ao25si,How does Genius (lyrics) display a drawer at a new url without losing scroll?,41,0.9,12,2024-02-11 07:10:48,45,4,57
+168,1aog0ef,RSS is still pretty great,5,0.78,0,2024-02-11 19:20:56,6,1,6
+169,1aol7k7,Conditional views of Jinja templates (Flask web app),2,1.0,0,2024-02-11 23:01:08,2,0,2
+170,1aohr53,Google Calendar API scope needs a youtube video,3,1.0,2,2024-02-11 20:33:20,3,0,5
+171,1aojz15,Advice on hosting my own website for the first time?,2,0.75,6,2024-02-11 22:08:03,2,0,8
+172,1ao4h4k,One service to host them all,17,0.83,48,2024-02-11 09:49:36,20,3,68
+173,1aonh1g,Anyone know a Beginner Friendly Email API Service,0,0.4,14,2024-02-12 00:50:18,0,0,14
+174,1aon2lp,Is resolution switching something I have to do manually for responsive images?,0,0.5,15,2024-02-12 00:30:26,0,0,15
+175,1anhso6,Made an app to more easily compare the performance of JS snippets and packages.,477,0.98,45,2024-02-10 14:41:40,486,9,531
+176,1aohelt,HTML & CSS Code Review,3,0.67,11,2024-02-11 20:18:30,4,1,15
+177,1aoe85h,How would I add a new field to pre existing 50+ documents in a collection ? updateMany ?,3,1.0,2,2024-02-11 18:05:59,3,0,5
+178,1aogw1o,Codecademy pro vs open app academy,2,1.0,3,2024-02-11 19:57:42,2,0,5
+179,1aolcby,Negotiable Abstractions,1,0.6,1,2024-02-11 23:06:48,1,0,2
+180,1aofnse,Difficulty getting my first website up and running. Running into issues with possibly apache or paths related to dependencies.,2,1.0,1,2024-02-11 19:06:03,2,0,3
+181,1aokyz3,How do I use absolute paths with GitHub Pages?,1,0.67,2,2024-02-11 22:50:34,1,0,3
+182,1anqvhh,What's the worst documentation that really needs some enhancement,98,0.92,146,2024-02-10 21:27:20,106,8,252
+183,1aoe87r,iOS-like React UI frameworks,2,0.75,2,2024-02-11 18:06:03,2,0,4
+184,1aoif3z,Getting started with Web Performance,1,0.6,1,2024-02-11 21:01:34,1,0,2
+185,1ao9vht,Shortest path to using a CMS for a non webdev,3,0.72,9,2024-02-11 15:01:22,4,1,13
+186,1ao41tf,I made a tool to deploy media content in one click! (so we can easily embed on our sites),8,0.9,3,2024-02-11 09:19:08,8,0,11
+187,1ao5ono,A terminal app to view and search log files,4,0.84,0,2024-02-11 11:12:31,4,0,4
+188,1aog74d,How is Google doing this shadow effect?,0,0.5,3,2024-02-11 19:29:07,0,0,3
+189,1ao6u7g,Netlify vs Vercel free tiers,3,1.0,3,2024-02-11 12:26:01,3,0,6
+190,1aoei85,My first (native) website seems to have issues with caching,0,0.4,4,2024-02-11 18:17:33,0,0,4
+191,1ao3357,Storing conversation in local storage VS in database?,6,0.8,10,2024-02-11 08:12:05,7,1,17
+192,1anodsk,How do Planetscale and other companies generate these high quality HTML animations?,56,0.88,16,2024-02-10 19:37:05,63,7,79
+193,1anqrzb,"CSS grid, or flexbox?",42,0.8,50,2024-02-10 21:22:53,52,10,102
+194,1anl547,Is it legal for me to see user messages?,79,0.84,67,2024-02-10 17:14:34,94,15,161
+195,1aocsws,Database Fundamentals,1,0.6,1,2024-02-11 17:05:51,1,0,2
+196,1aoclta,GFG COURSE COUPONS,0,0.4,2,2024-02-11 16:58:00,0,0,2
+197,1aoap62,Angular 13 - Async paginated table doesn't show any data when accessing 2nd+ page,1,0.6,2,2024-02-11 15:37:44,1,0,3
+198,1ao8ztw,Laptop Advice,0,0.4,1,2024-02-11 14:20:31,0,0,1
+199,1anh6i9,Re-entering the web dev space. What has changed in the last 10 years?,79,0.74,164,2024-02-10 14:11:02,106,27,270
+200,1anzdhh,YouTube Data API v3 - 1 Query per day?,5,0.86,3,2024-02-11 04:23:06,5,0,8
+201,1ao0f2u,Hidden Gems in Chrome DevTools: 9 Tips and Tricks | Jacob Padilla,3,0.72,0,2024-02-11 05:24:17,4,1,4
+202,1aofawt,Resources on Web 1.0 development?,0,0.29,2,2024-02-11 18:50:51,0,0,2
+203,1ao3uyu,Brand New Web Design Freelance Venture!,1,0.56,4,2024-02-11 09:06:00,1,0,5
+204,1anx09b,Where to deploy my django project?,7,1.0,5,2024-02-11 02:15:32,7,0,12
+205,1aobg2x,Is there any way to tell if a user is copying any text from the website?,0,0.43,14,2024-02-11 16:09:44,0,0,14
+206,1ao3eyt,Should lazysizes be replaced with native browser-level lazyloading?,2,0.75,2,2024-02-11 08:35:19,2,0,4
+207,1ao6piq,Live Streaming Solution for paying customers?,1,0.67,1,2024-02-11 12:18:21,1,0,2
+208,1ano2s1,I made a little app to learn web sockets,22,0.96,0,2024-02-10 19:23:17,22,0,22
+209,1aod1x7,What happens when you report a website to Google?,0,0.4,4,2024-02-11 17:16:38,0,0,4
+210,1ao27y1,Sanity check on my authorization implementation,2,1.0,3,2024-02-11 07:14:41,2,0,5
+211,1anzkl0,Advice on creating a new web app,3,1.0,3,2024-02-11 04:34:35,3,0,6
+212,1ao4pop,(2023) Code is Not Technical Debt,0,0.44,2,2024-02-11 10:06:03,0,0,2
+213,1ao0yrx,Built An E-commerce Application,2,0.75,0,2024-02-11 05:57:05,2,0,2
+214,1andopt,"How do back-end developers usually document their APIs? And front-end developers, how do you handle variable changes in the API? Lastly, managers, what is your method for documenting requirement documents?",65,0.88,79,2024-02-10 10:47:09,73,8,152
+215,1ana35h,Is GitHub Copilot any good nowadays?,133,0.89,169,2024-02-10 06:38:22,149,16,318
+216,1anywkv,Static html and js paste bin,2,1.0,2,2024-02-11 03:56:59,2,0,4
+217,1ao2iif,Personal webapps?,1,0.67,2,2024-02-11 07:33:52,1,0,3
+218,1amuzwm,Stop contributing to Open Source! What is wrong with you people?,840,0.94,204,2024-02-09 18:29:08,893,53,1097
+219,1ao1xj4,What platform is this website built on?,0,0.4,1,2024-02-11 06:56:40,0,0,1
+220,1anxxe3,Right Click Menu,2,0.75,0,2024-02-11 03:04:05,2,0,2
+221,1anst52,CRUD Boilerplate - Tech Stack Recommendations,3,0.81,11,2024-02-10 22:53:52,3,0,14
+222,1ansf6w,I made a JS Module to change a website color mode (light/dark) and would appreciate feedback!!,4,1.0,4,2024-02-10 22:36:43,4,0,8
+223,1anrhl8,Review my site.,5,0.86,4,2024-02-10 21:54:44,5,0,9
+224,1aoa22s,What was the lowest skill web dev you’ve ever worked with like?,0,0.42,34,2024-02-11 15:09:23,0,0,34
+225,1anw36r,The Largest Money-Printing UI Element Ever Made,3,0.61,1,2024-02-11 01:28:03,4,1,5
+226,1anu71i,Screenshot from Google Recaptcha. Anyone know what's going on with these form submission bots?,2,0.63,4,2024-02-10 23:57:20,3,1,7
+227,1antpt5,Good API for social listening,2,0.75,2,2024-02-10 23:34:51,2,0,4
+228,1anixv3,Made a free Travel Planning website for the entire world,7,0.82,17,2024-02-10 15:35:28,8,1,25
+229,1ankw6q,"From Prefetch to Prerender, Optimize Performance with the Speculation Rules API",5,0.86,0,2024-02-10 17:03:48,5,0,5
+230,1anp9ez,How can I make an ULTRA simple CMS for an informational site?,2,0.75,4,2024-02-10 20:14:59,2,0,6
+231,1anp2q8,Turbo Repo won't register new workspaces. Can anyone help?,2,1.0,0,2024-02-10 20:06:42,2,0,2
+232,1an0xia,Modern Web Development Is Exhausting & Its Our Own Fault,98,0.84,43,2024-02-09 22:45:12,116,18,159
+233,1andc6h,I made a simple valentine site,11,0.7,23,2024-02-10 10:22:34,15,4,38
+234,1ank6ux,Script like a contexto,3,1.0,1,2024-02-10 16:31:52,3,0,4
+235,1anin1u,Hoops Exhibit - A website to search for NBA plays!,3,1.0,0,2024-02-10 15:21:54,3,0,3
+236,1ankgen,"Which Auth providers do you think are the minimum necessary for a good user sign up experience? Google, Facebook, Twitter, etc. ?",2,1.0,4,2024-02-10 16:44:13,2,0,6
+237,1anpkq7,Cheap shared hosting?,1,0.56,11,2024-02-10 20:28:50,1,0,12
+238,1anp8eg,Looking to Create a Simple Website for my Small Financial Firm,0,0.5,5,2024-02-10 20:13:41,0,0,5
+239,1angrav,Technical onboarding optimisations?,3,1.0,4,2024-02-10 13:50:35,3,0,7
+240,1ammqve,iOS 17.4 seems to remove web app support in the EU,331,0.96,160,2024-02-09 12:10:42,344,13,504
+241,1aney6r,Weird problem when pushing to vercel.,5,1.0,4,2024-02-10 12:10:00,5,0,9
+242,1aniyon,First successful project stack share,2,0.75,2,2024-02-10 15:36:33,2,0,4
+243,1ao2qds,Test your Web Dev Skills (for Web Developers)🧑‍💻,0,0.24,17,2024-02-11 07:47:40,0,0,17
+244,1anmch6,I need help on a HTML project,0,0.48,17,2024-02-10 18:06:39,0,0,17
+245,1andi60,What Keywords Would Describe My Position/Skills Best?,5,0.78,5,2024-02-10 10:34:27,6,1,11
+246,1anewc6,Advice on domain registration and mapping for multi-tenant apps on Google Cloud Run,3,1.0,0,2024-02-10 12:06:46,3,0,3
+247,1angk6f,Portfolio with no projects - looking for advice,2,0.67,6,2024-02-10 13:40:24,2,0,8
+248,1anldb5,Is Flex box & Grid alone good enough?,0,0.5,47,2024-02-10 17:24:17,0,0,47
+249,1ang4ba,Password manager saves username and password instead of email and password; how to fix this?,2,0.67,1,2024-02-10 13:17:10,2,0,3
+250,1anhzlw,Free txt file hosting service with read/write?,0,0.5,8,2024-02-10 14:51:05,0,0,8
+251,1amw3m5,What is a hands-on interview problem that is challenging but not time-consuming and not a gotcha?,36,0.96,27,2024-02-09 19:16:33,37,1,64
+252,1anlq0u,Can I get help for modifying a CSS Code?,0,0.33,1,2024-02-10 17:39:18,0,0,1
+253,1anggiz,Very confused about CMS,1,0.6,14,2024-02-10 13:35:14,1,0,15
+254,1anc46t,Questions in creating a website + making a browser game?,2,0.75,1,2024-02-10 08:56:52,2,0,3
+255,1an7cdl,Email Hosting that allows IMAP?,6,0.88,16,2024-02-10 03:58:21,6,0,22
+256,1amopdt,We launched a Netflix for developers. We dropped 7 new shows this week. We'd love it if you checked it out 🎬,62,0.83,15,2024-02-09 13:57:06,74,12,89
+257,1amzs5w,Open Source My Passion Project? Would Anyone Even Contribute?,8,0.84,2,2024-02-09 21:54:52,9,1,11
+258,1ancuj9,How to preserve scroll position on the first page when navigating back from another page in React?,1,0.6,6,2024-02-10 09:48:00,1,0,7
+259,1anca9m,Using AWS S3 as a Chat App Infrastructure,1,1.0,1,2024-02-10 09:08:43,1,0,2
+260,1anbyjl,What tool do you use for web design?,0,0.43,24,2024-02-10 08:45:41,0,0,24
+261,1an417u,Filtering based on interview processes,4,0.83,1,2024-02-10 01:06:50,4,0,5
+262,1amvonk,How do large scale websites deploy small changes?,10,0.78,35,2024-02-09 18:58:45,12,2,47
+263,1am5oa0,You're an asshole if you disable pinch to zoom on your site,597,0.94,145,2024-02-08 20:41:15,635,38,780
+264,1amvka7,Whats the most aesthetically pleasing website/app you've used recently?,10,0.92,5,2024-02-09 18:53:30,10,0,15
+265,1amyc9f,Should I really learn React even tho I know Vue to a certain level?,6,0.62,22,2024-02-09 20:52:33,9,3,31
+266,1amiqjo,Are there too many JS runtimes?,61,0.84,39,2024-02-09 07:32:01,72,11,111
+267,1ammly4,Will I have any legal trouble if I make money from my website?,26,0.78,31,2024-02-09 12:02:53,33,7,64
+268,1amld3v,SaaS Adventure with Zero Coding Experience - Week #2 Update,26,0.97,5,2024-02-09 10:41:49,26,0,31
+269,1amfm8i,Payment to fix vulnerabilities after the fact?,80,0.94,25,2024-02-09 04:24:20,85,5,110
+270,1amyyr3,Things to know for a react interview?,3,0.8,0,2024-02-09 21:19:16,3,0,3
+271,1an646o,How to create a sports statistics website from scratch,0,0.4,12,2024-02-10 02:51:00,0,0,12
+272,1an63a7,i saw this on codepen and wanted to change it a bit but it doesnt work in vscode but it does in codepen,1,0.67,8,2024-02-10 02:49:44,1,0,9
+273,1an5puf,Help with proxy,1,0.6,5,2024-02-10 02:30:18,1,0,6
+274,1am1y6e,"Someone copied my front-end portfolio website along with one largest project, put their name on it, and is now presenting it as their own work. Is there anything I can do about it?",303,0.95,134,2024-02-08 18:05:17,318,15,452
+275,1an3g3i,"I created an SEO Tracker, Indexer & Downtime Tracker for indie developers - Indexely",1,0.67,0,2024-02-10 00:39:05,1,0,1
+276,1ampums,Over The Edge: How Microsoft’s Design Tactics Compromise Free Browser Choice,6,0.88,0,2024-02-09 14:51:15,6,0,6
+277,1amr4p1,Made a lunar new year website!,5,1.0,0,2024-02-09 15:48:19,5,0,5
+278,1amy6zc,OAuth2 Data help,2,1.0,0,2024-02-09 20:46:10,2,0,2
+279,1and31j,hould I learn Next.js 13 or 14? Noob looking for a guidance,0,0.18,5,2024-02-10 10:04:27,0,0,5
+280,1anfy4h,Time to rethink our IDE?,0,0.32,20,2024-02-10 13:07:53,0,0,20
+281,1an174a,Need some suggestion for ads service,0,0.5,5,2024-02-09 22:56:49,0,0,5
+282,1am0fgk,Is it safe to use native css nesting,242,0.93,124,2024-02-08 17:01:58,260,18,384
+283,1amsaq7,"Hi, Need some guidance on how to do this",3,1.0,6,2024-02-09 16:37:27,3,0,9
+284,1amsaps,"Hi, Need some guidance on how to do this",3,1.0,1,2024-02-09 16:37:27,3,0,4
+285,1amvc3l,What's the most reliable way to synchronize my user data between firebase auth and my backend?,2,1.0,2,2024-02-09 18:43:47,2,0,4
+286,1amq6ra,What if an SQL Statement Returned a Database?,2,0.6,1,2024-02-09 15:05:58,3,1,4
+287,1amt8v8,The Security Podcast in Silicon Valley: Adopting a Security Mindset in Open,2,1.0,0,2024-02-09 17:16:05,2,0,2
+288,1amt5i3,Can you review my portfolio and give some opinions and recommendations?,2,1.0,1,2024-02-09 17:12:20,2,0,3
+289,1ampslw,Building custom admin UI on top of a headless CMS (Payload),3,1.0,3,2024-02-09 14:48:38,3,0,6
+290,1amxprg,Looking for a freemium alternative to Cloudflare CDN for Wordpress,0,0.4,2,2024-02-09 20:25:50,0,0,2
+291,1an26lj,which video platform / plugin / coding does this website use?,0,0.38,2,2024-02-09 23:40:42,0,0,2
+292,1amwwlx,Finding issues in testing tools,1,0.66,1,2024-02-09 19:51:37,1,0,2
+293,1amqhxa,"Question about amount of access you give clients, and how you divide your projects up",2,0.75,7,2024-02-09 15:20:10,2,0,9
+294,1am3s93,I keep seeing people talking about moving away from Redux...,78,0.92,89,2024-02-08 19:22:02,84,6,173
+295,1amuk4v,Retrieving session data,1,1.0,1,2024-02-09 18:10:39,1,0,2
+296,1alvkia,Noob question,204,0.92,52,2024-02-08 13:21:34,221,17,273
+297,1amp0r1,What does on Call this Navigation on the side of the page?,2,0.75,6,2024-02-09 14:11:47,2,0,8
+298,1amsy9l,There is any way to insert data into an IndexedDB pointing to the file,1,0.67,7,2024-02-09 17:04:19,1,0,8
+299,1am0hi4,Do you still use stack overflow?,75,0.79,169,2024-02-08 17:04:18,94,19,263
+300,1amx03q,Getting undefined after fetching data from firebase db !,0,0.43,5,2024-02-09 19:55:47,0,0,5
+301,1amkr3l,Minecraft as Personal Portfolio!,3,1.0,0,2024-02-09 09:58:14,3,0,3
+302,1ambqgs,Pros/cons of fetching lots of little javascript files instead of one big bundle?,14,0.9,27,2024-02-09 01:09:13,15,1,42
+303,1ammfqz,Creation of a subdomain using Plesk,2,1.0,3,2024-02-09 11:52:52,2,0,5
+304,1alyhqf,Did I Choose the Wrong Career?,87,0.85,70,2024-02-08 15:38:57,102,15,172
+305,1amm72i,Building a Python Backend with Next.js Frontend - Cheap and Secure Authentication Options?,3,0.71,5,2024-02-09 11:37:41,4,1,9
+306,1amqhcq,How should I do backend development with Ecohosting?,1,0.67,4,2024-02-09 15:19:28,1,0,5
+307,1alr8mj,Apple broke web apps in iOS 17 beta and hasn't fixed them,269,0.94,115,2024-02-08 08:41:48,286,17,401
+308,1ampy8b,Website for bringing my board games to life online,1,0.6,3,2024-02-09 14:55:50,1,0,4
+309,1ampkbv,Google search is saying i've got my page as noindex . . . but I havn't,1,0.67,3,2024-02-09 14:37:51,1,0,4
+310,1amlbov,Creating a marketplace,2,1.0,1,2024-02-09 10:39:06,2,0,3
+311,1amngnk,How to Build Facial Recognition Application with Python,0,0.5,1,2024-02-09 12:51:57,0,0,1
+312,1amnbdr,Can anyone tell me why the gl function isn't working on Google CSE?,1,0.67,1,2024-02-09 12:43:31,1,0,2
+313,1amqzc3,Building a backend with registered users that are given an API key... what would you use?,0,0.33,9,2024-02-09 15:41:45,0,0,9
+314,1amj2fo,How do I create the frontend structure and build a properly frontend so that the backend can be implemented later on?,1,0.57,2,2024-02-09 07:54:45,1,0,3
+315,1amlyi1,Your first React Micro Frontend,1,0.67,0,2024-02-09 11:22:02,1,0,1
+316,1amfjiy,behance dos and donts,3,1.0,3,2024-02-09 04:20:06,3,0,6
+317,1amro85,34 Curved monitor,0,0.29,2,2024-02-09 16:11:04,0,0,2
+318,1alqj0d,What tool/service is worth its weight in gold to you?,128,0.96,202,2024-02-08 07:50:07,133,5,335
+319,1ama0jv,"Hey im a new webdev and i wanted to buy a domain name for my site, is ionos ok for that?",7,0.82,30,2024-02-08 23:48:12,8,1,38
+320,1amjynr,How do I optimize this component for reduced LCP time,1,0.67,3,2024-02-09 09:00:00,1,0,4
+321,1amjc6g,I made an accessibility extension,1,0.67,7,2024-02-09 08:14:01,1,0,8
+322,1am4o8h,Replaced Google Analytics with completely self-hosted analytics in 30 minutes,9,0.72,7,2024-02-08 19:59:27,12,3,19
+323,1amisl0,UI library/framework for desktop-like sites,1,1.0,1,2024-02-09 07:35:48,1,0,2
+324,1am8qxd,Do any of you have a clause in your contract to address this situation?,4,0.7,9,2024-02-08 22:51:57,5,1,14
+325,1amakvg,How do Frontend Engineer prepare interviews,4,0.83,1,2024-02-09 00:14:36,4,0,5
+326,1amczd6,Need Help Figuring Out A Bug: Touch input opens dropdown / triggers links even when I tap next to them,2,0.76,10,2024-02-09 02:09:41,2,0,12
+327,1amk2t5,How do you document your codes in your company?,0,0.33,5,2024-02-09 09:07:57,0,0,5
+328,1altld5,How do you keep an overview on 2k+ lines pr‘s?,26,0.86,40,2024-02-08 11:27:25,30,4,70
+329,1amg6b9,Question about forms attributes,0,0.4,5,2024-02-09 04:55:34,0,0,5
+330,1amet0u,It's never been easier to performantly put images on the web.,1,0.57,2,2024-02-09 03:41:12,1,0,3
+331,1amuq4q,Why Tailwind Doesn't Work For Me,0,0.35,47,2024-02-09 18:17:37,0,0,47
+332,1ame1jh,ASP.NET Core: Two view models for creating view and processing POST request?,1,0.6,3,2024-02-09 03:02:28,1,0,4
+333,1amhc7w,Are there any half-code platforms out there?,0,0.42,13,2024-02-09 06:02:23,0,0,13
+334,1amcwt5,Building a checkout as a single page app - what security do we need to build in?,1,0.57,2,2024-02-09 02:06:02,1,0,3
+335,1alm4r4,Remote web devs do you have a dedicated work computer in addition to a personal computer or is it one computer to rule them all?,58,0.89,92,2024-02-08 03:28:42,65,7,157
+336,1am6o6r,How can I make a review website?,2,0.75,8,2024-02-08 21:23:23,2,0,10
+337,1am37ag,Why isn't Radix UI updated anymore? Should we even use shadcn/ui?,4,0.59,8,2024-02-08 18:58:06,6,2,14
+338,1am5ycy,ThunderClient in vscode - is there anyway to extract the token for auth?,2,1.0,6,2024-02-08 20:53:07,2,0,8
+339,1alhh5t,JQuery 4 is out,99,0.82,56,2024-02-07 23:45:08,120,21,176
+340,1am5p1w,What's the best inexpensive way to put up a simple website?,3,0.63,24,2024-02-08 20:42:12,4,1,28
+341,1alyfkl,In Loving Memory of Square Checkbox,6,0.87,0,2024-02-08 15:36:13,6,0,6
+342,1amjrx1,"How to copy a section as it is from a website, with its css and everything?",0,0.14,5,2024-02-09 08:45:17,0,0,5
+343,1am1m4o,Cloudflare NS vs Porkbun NS for custom email domain ?,3,1.0,6,2024-02-08 17:51:25,3,0,9
+344,1am9vgm,My MMA Simulator Game developed with MERN Stack and Cordova,1,0.67,0,2024-02-08 23:42:00,1,0,1
+345,1am3heh,Library for graphing calculator?,2,1.0,1,2024-02-08 19:09:34,2,0,3
+346,1am2xff,Front end webdev or graphics programmer?,2,0.75,1,2024-02-08 18:46:27,2,0,3
+347,1all097,Should I abandon my pursuit to become a web developer?,33,0.78,45,2024-02-08 02:32:12,42,9,87
+348,1alylrw,Crawler to download all HTML/CSS/JS needed,3,0.81,3,2024-02-08 15:43:58,3,0,6
+349,1alyhky,Web design inspiration catalog,3,1.0,0,2024-02-08 15:38:46,3,0,3
+350,1am1kka,"I need help getting an application deployed to Heroku, just wondering if anyone could give me a hand",2,1.0,0,2024-02-08 17:49:40,2,0,2
+351,1am6ras,Never used a framework - Modern Recommendation needed,0,0.5,4,2024-02-08 21:27:03,0,0,4
+352,1am12bl,"Seeking a Simple, Framework-Agnostic Tool for Detailed User Interaction Data Capture.",2,1.0,1,2024-02-08 17:28:04,2,0,3
+353,1am65mh,Bootstrap Row Issue,1,0.67,4,2024-02-08 21:01:31,1,0,5
+354,1alvhbn,What kind of EC2 instances for multiple web apps and their performance?,4,0.71,11,2024-02-08 13:16:59,5,1,16
+355,1am3xqu,Am I the only one who dislikes Reddit's new UI?,0,0.5,27,2024-02-08 19:28:39,0,0,27
+356,1altup5,Are there public codes that demonstrate how to build Enterprise level web applications with AWS.,5,0.86,2,2024-02-08 11:44:02,5,0,7
+357,1am3go4,Initial margins?,0,0.5,2,2024-02-08 19:08:42,0,0,2
+358,1alxxw2,Showing php error and output without frontend?,2,1.0,2,2024-02-08 15:14:13,2,0,4
+359,1alog4j,Is Github Pages good for a landing page (testing demand for a new product),9,0.81,12,2024-02-08 05:35:23,11,2,23
+360,1alqxmw,How do hotel booking sites know when a someone books a hotel using a different site?,6,0.75,5,2024-02-08 08:19:18,8,2,13
+361,1alrqfb,Which Stack Should I Study to Become a Creative Front-End Developer?,4,0.83,6,2024-02-08 09:17:05,4,0,10
+362,1alzjva,Responsive Navbar Design Tutorial | Web Dev,0,0.5,0,2024-02-08 16:25:10,0,0,0
+363,1amgayr,Best Macbook in 2024 for web dev?,0,0.23,15,2024-02-09 05:02:20,0,0,15
+364,1alxtsq,That time I accidentally created a Blockchain Web IDE,0,0.42,1,2024-02-08 15:09:10,0,0,1
+365,1altil4,The Imperative of Speed and Accessibility in Modern Web Development,1,0.57,3,2024-02-08 11:22:25,1,0,4
+366,1alkbjp,Do you think programming is a low-stress job?,12,0.75,58,2024-02-08 01:59:35,16,4,74
+367,1aln15l,Subdomain single-tenancy - database per tenant vs container per tenant,6,0.88,5,2024-02-08 04:15:51,6,0,11
+368,1akws8n,jQuery 4.0.0 BETA! release and changelog,293,0.92,151,2024-02-07 06:41:48,318,25,469
+369,1alskne,Simple way to run custom JS code on an html page,0,0.5,13,2024-02-08 10:17:43,0,0,13
+370,1alshq6,Debugging js code that uses localStorage or indexedDB in VSC,1,0.67,0,2024-02-08 10:11:51,1,0,1
+371,1als9w4,LCP Really Slow - Could Use Some Advice,1,0.67,10,2024-02-08 09:56:52,1,0,11
+372,1al8icw,Drupal gang wellness check,19,0.86,9,2024-02-07 17:33:08,22,3,31
+373,1akb14u,Guys Its Finally Happened to ME! I have....the EYES!,2792,0.93,259,2024-02-06 14:29:10,3002,210,3261
+374,1aliqzi,Node.js Community Debate Intensifies over Potentially Unbundling NPM,6,0.87,1,2024-02-08 00:44:01,6,0,7
+375,1akwngt,Interop 2024 for browsers: JPEG XL won with >4x more reactions than second - removed without explanation,140,0.99,19,2024-02-07 06:33:07,141,1,160
+376,1aln4xi,Build Custom CRM resources,2,0.75,0,2024-02-08 04:21:24,2,0,2
+377,1al4dw8,"CSRF Protection and ""Keep me logged in""",24,0.87,9,2024-02-07 14:38:25,27,3,36
+378,1alkbok,Best laptop suggestion!,4,0.59,38,2024-02-08 01:59:45,6,2,44
+379,1all68r,How to properly migrate to new application architecture,2,0.75,1,2024-02-08 02:40:15,2,0,3
+380,1al3e3w,"When working with a designer, what your preference for the amount of screen resolutions that you ask to be completed for desktop?",20,0.93,27,2024-02-07 13:52:20,21,1,48
+381,1alov6y,Node.js Community Debate Intensifies Over Enabling Corepack by Default and,1,0.6,0,2024-02-08 06:00:16,1,0,1
+382,1alhfu0,How do I make a map that allows the user to search for a location and when necessary show the inside plan of a building?,3,0.8,7,2024-02-07 23:43:30,3,0,10
+383,1albvgx,How can I accomplish that? Grey boxes are textareas that need to expand vertically when there is content.,5,0.7,6,2024-02-07 19:51:39,7,2,13
+384,1aljv2i,Headless CMS that allows for customised page layout,2,0.75,9,2024-02-08 01:37:29,2,0,11
+385,1almvcy,"Docker, nodejs, express server and concurrent requests",1,0.67,1,2024-02-08 04:07:23,1,0,2
+386,1almh2j,Securing Your APIs: Verifying API Keys And Using Scopes,1,0.67,0,2024-02-08 03:46:13,1,0,1
+387,1algg1o,Release Notes for Safari Technology Preview 188,2,1.0,0,2024-02-07 23:01:27,2,0,2
+388,1alkwze,Supercharging Website Performance with Astro JS,1,0.6,2,2024-02-08 02:27:41,1,0,3
+389,1alkuh6,How-to: Use setInterval in React,0,0.5,0,2024-02-08 02:24:13,0,0,0
+390,1aletjt,Enterprise analytics services?,2,1.0,1,2024-02-07 21:54:18,2,0,3
+391,1al968x,I got roasted by this Daily dev roast bot,3,0.55,2,2024-02-07 18:00:13,5,2,7
+392,1aleam4,Beginner Freelancer looking for advice…,2,1.0,1,2024-02-07 21:32:14,2,0,3
+393,1ale7r4,Accessing/Reading webcal protocol calendar subscriptions in raw format,2,1.0,0,2024-02-07 21:29:01,2,0,2
+394,1aky0yz,Quitting web agency,22,0.87,22,2024-02-07 08:06:09,25,3,47
+395,1al9dh1,Thought exercise: Making a booking app for a restaurant,3,0.71,3,2024-02-07 18:08:21,4,1,7
+396,1alcgfh,"New to apostrophe 3 CMS, what are the best resources to get up and running",2,1.0,10,2024-02-07 20:15:48,2,0,12
+397,1alanvn,Filler Content for Review Section?,2,1.0,3,2024-02-07 19:01:21,2,0,5
+398,1al6vij,Compile C# solution into single-file ES module with auto-generated JavaScript bindings and type definitions,3,0.8,0,2024-02-07 16:26:38,3,0,3
+399,1al9i4e,Ideas to make my Personal Blog/Portfolio site with a backend,2,0.75,11,2024-02-07 18:13:35,2,0,13
+400,1al59ds,Creating a word document with JSON on client side?,3,1.0,0,2024-02-07 15:17:16,3,0,3
+401,1ake0hd,[Rant] Javascript dependency hell is worse than I ever imagined...,181,0.82,155,2024-02-06 16:37:39,220,39,375
+402,1al1bdf,Getting started? [self employed],5,0.67,13,2024-02-07 12:00:06,7,2,20
+403,1al2vex,"Booking Systems, Payments and Value Added Tax",3,1.0,1,2024-02-07 13:26:12,3,0,4
+404,1al5p7b,LF thoughts on new version of old web app,2,1.0,0,2024-02-07 15:36:45,2,0,2
+405,1algcu8,Help me choose !!,0,0.33,3,2024-02-07 22:57:49,0,0,3
+406,1alm284,Does being a front end web dev require you to constantly be online?,0,0.35,8,2024-02-08 03:25:09,0,0,8
+407,1ala02g,How to replicate cursor blob/liquid effect?,1,0.67,3,2024-02-07 18:33:56,1,0,4
+408,1al1syo,Question about the final stage of website development.,3,1.0,3,2024-02-07 12:28:40,3,0,6
+409,1al98pd,MUI vs Tailwind UI,1,1.0,0,2024-02-07 18:02:45,1,0,1
+410,1ak7wtk,"With Insomnia now joining Postman in forcing their users to have a cloud account, What other alternative API client apps do you recommend?",222,0.98,127,2024-02-06 11:47:19,226,4,353
+411,1algy1f,Any way to prevent HTML from moving when resizing browser window?,0,0.33,16,2024-02-07 23:22:20,0,0,16
+412,1al5wzw,Why does locale=fa_IR show up in my Facebook URL? I'm in the U.S.A...,0,0.4,2,2024-02-07 15:46:08,0,0,2
+413,1alglnn,What to do when there is no API?,0,0.43,23,2024-02-07 23:08:02,0,0,23
+414,1al12pi,Using svg as clip path error,2,1.0,0,2024-02-07 11:44:43,2,0,2
+415,1aldhkj,Nextjs: Workaround because async await is not supported in Client Component?,0,0.29,13,2024-02-07 20:59:09,0,0,13
+416,1aktrca,NGINX proxy for different tech based sites,5,0.86,3,2024-02-07 03:52:01,5,0,8
+417,1al2vgy,"Booking Systems, Payments and Value Added Tax",1,0.67,1,2024-02-07 13:26:16,1,0,2
+418,1akm37q,Should we do authentication in house or outsource?,13,0.76,40,2024-02-06 22:03:12,17,4,57
+419,1aklwrf,Any way to prevent Chrome mobile from refreshing pages automatically ?,10,0.82,9,2024-02-06 21:56:03,12,2,21
+420,1akz0vr,PixiJS tutorial needed,0,0.5,1,2024-02-07 09:20:30,0,0,1
+421,1akygsa,What units should I use for the elements that make the layout if I want them to look good on both desktops and laptops?,0,0.5,7,2024-02-07 08:38:55,0,0,7
+422,1aky6v5,Is there a simple way to share media for an event?,1,0.67,3,2024-02-07 08:18:27,1,0,4
+423,1akuiw0,First time HTTPS issues,2,1.0,2,2024-02-07 04:32:03,2,0,4
+424,1aklldd,"Introducing Bitspace - A new kind of playground for creative endeavours (RxJS, React & Typescript)",7,0.89,2,2024-02-06 21:43:31,7,0,9
+425,1akrl8e,CyberBytes Podcast: Open Source Security Shifts Towards Tackling Supply Chain,3,1.0,0,2024-02-07 02:04:28,3,0,3
+426,1aktqdy,ada compliance clause,2,0.75,5,2024-02-07 03:50:38,2,0,7
+427,1akqak0,GitHub - DavidAI2024/DrugGeneExplorer: This Python script is designed to provide detailed information on interactions between drugs and genes using the Sydney module for natural language processing and the Drug Gene Interaction Database (DGIdb) API.,3,1.0,0,2024-02-07 01:03:37,3,0,3
+428,1aksls1,"Looking for a Comprehensive Tutorial on Building a Scalable Full-Stack System with React, MongoDB, Docker, and Kubernetes",2,0.55,11,2024-02-07 02:53:49,3,1,14
+429,1akwgph,What is the best way to host a Flask socket-io backend for free?,1,0.67,4,2024-02-07 06:21:13,1,0,5
+430,1akrxoa,Who are the best CS/programming teachers?,2,0.6,10,2024-02-07 02:21:21,3,1,13
+431,1ajn598,Does anyone else hate having to join a discord to ask any questions for every single tool in their chain?,547,0.96,231,2024-02-05 18:08:36,569,22,800
+432,1al7gge,Bubble Web Development,0,0.2,6,2024-02-07 16:50:28,0,0,6
+433,1alctpb,Spent 10 minutes trying to change text font on a button,0,0.24,5,2024-02-07 20:30:50,0,0,5
+434,1akltye,Using Ngrok to Test Localhost,2,0.67,1,2024-02-06 21:52:52,2,0,3
+435,1aktpvw,Any Digital Nomads?,1,0.54,3,2024-02-07 03:49:59,1,0,4
+436,1aktnh1,Backend-Only Web Dev Agency: Seeking Advice!,0,0.5,1,2024-02-07 03:46:26,0,0,1
+437,1akl9o3,Newspaper Website Help,3,1.0,4,2024-02-06 21:30:58,3,0,7
+438,1aka3mj,Why are frontend frameworks and browsers not making use of connection pooling?,10,0.86,6,2024-02-06 13:46:00,11,1,17
+439,1akd5or,A CLI as a backend with an API as a frontend,5,0.86,0,2024-02-06 16:01:27,5,0,5
+440,1akkcbb,IndexedDB for permanent and persistent storage?,2,0.63,9,2024-02-06 20:54:24,3,1,12
+441,1ak4njo,Grammys website having some trouble with escape characters,18,0.78,4,2024-02-06 07:56:06,23,5,27
+442,1akc6ib,MJML columns do not stack on mobile,6,1.0,0,2024-02-06 15:18:55,6,0,6
+443,1akjb8v,Freelance Question,2,1.0,1,2024-02-06 20:13:18,2,0,3
+444,1akiyp8,Link shortening for SMS generated by wordpress booking plugin,2,1.0,1,2024-02-06 19:59:43,2,0,3
+445,1ak6p8r,Apache server return php file instead of executing it.,10,0.72,7,2024-02-06 10:27:11,13,3,20
+446,1akmwhd,VRBO API,1,0.67,0,2024-02-06 22:36:28,1,0,1
+447,1ajzwfp,Can one land a Typescript job without experience?,35,0.73,56,2024-02-06 03:14:16,47,12,103
+448,1akmdfl,Help with client portal/automatic subdomain creation,1,0.67,1,2024-02-06 22:14:43,1,0,2
+449,1ak8kav,The House of Requirements,5,0.79,0,2024-02-06 12:25:34,6,1,6
+450,1akktgz,Self hosting costs compared to squarespace,0,0.5,3,2024-02-06 21:13:18,0,0,3
+451,1al7rq3,I hate wordpress,0,0.35,144,2024-02-07 17:03:21,0,0,144
+452,1akexno,Cms templates,2,1.0,0,2024-02-06 17:16:04,2,0,2
+453,1ak1jfv,What tech stack would you use for small-scale freelance web development?,19,0.74,59,2024-02-06 04:42:19,25,6,84
+454,1akj2qy,A DNS entry for xxx.com already exists. You must remove this DNS entry from this server or servers in the DNS cluster,1,0.67,10,2024-02-06 20:03:56,1,0,11
+455,1ak9u4j,Properly synchronise edit by multiple users on the same cloud document,3,1.0,1,2024-02-06 13:32:58,3,0,4
+456,1akhqmc,Website Firearms,0,0.5,2,2024-02-06 19:09:45,0,0,2
+457,1akq5vz,LatAm ReactJS semi-senior developer salary - WDYT?,0,0.4,1,2024-02-07 00:57:39,0,0,1
+458,1akbeez,How to prevent page from scrolling on mobile when software keyboard is opened,2,1.0,3,2024-02-06 14:45:43,2,0,5
+459,1akg8jl,Embedded POD shop only works for USA but I am in Austria,1,0.67,0,2024-02-06 18:09:28,1,0,1
+460,1akasuq,Online site for quick front end prototyping,2,0.76,2,2024-02-06 14:18:31,2,0,4
+461,1akalkv,How are settings usually stored?,1,0.57,6,2024-02-06 14:09:20,1,0,7
+462,1akeo9h,Rolling Stones Wordpress website: custom theme? Boundaries between theme code and CMS?,1,0.67,2,2024-02-06 17:05:05,1,0,3
+463,1akea26,Best Product Catalog Maker,1,0.67,0,2024-02-06 16:48:40,1,0,1
+464,1ajzgn3,Is there a way to utilize higher bit-depth in the canvas API?,11,0.88,17,2024-02-06 02:52:33,12,1,29
+465,1ak86kq,Solution for highly-demaning asset storage,2,0.63,8,2024-02-06 12:03:30,3,1,11
+466,1ak66yo,Shopify VS Wordpress for Restaurants?,3,0.72,20,2024-02-06 09:50:51,4,1,24
+467,1akcl1a,My website redirects to a scam website HELP,0,0.5,5,2024-02-06 15:36:18,0,0,5
+468,1akbjv0,How do I quote a number of API calls for a prospective developer?,0,0.5,3,2024-02-06 14:52:08,0,0,3
+469,1akaxvn,Navigating layoffs and starting own webdev business,1,0.67,0,2024-02-06 14:25:01,1,0,1
+470,1akjiaz,Backend of an E-Commerce site,0,0.33,7,2024-02-06 20:20:55,0,0,7
+471,1aklq5o,Do you think in the foreseeable future there will be possibility for Github Copilot to have access to the entire repository and suggest related code snippets?,0,0.22,7,2024-02-06 21:48:39,0,0,7
+472,1ajhkhc,"Finally starting to care about SEO, what tools do you recommend?",75,0.9,33,2024-02-05 14:18:18,83,8,116
+473,1ak5snx,VIDEOJS mapping audioTracks to other labels,2,0.63,1,2024-02-06 09:21:22,3,1,4
+474,1ak99xy,Contributing to Web Accessibility: Unveiling My Bachelor Thesis Project - A React Accessibility Library Aligned with W3C Guidelines,1,0.6,0,2024-02-06 13:04:23,1,0,1
+475,1ak8qlx,Exploring web development as an Android developer,1,0.6,5,2024-02-06 12:35:25,1,0,6
+476,1ajxd30,How do you promote your projects?,8,1.0,15,2024-02-06 01:11:51,8,0,23
+477,1akf50x,I think my superiors have little idea what they’re doing,0,0.45,29,2024-02-06 17:24:49,0,0,29
+478,1ak1lwa,"Malicious npm Package Masquerades as Noblox.js, Targeting Roblox Users for Data",3,0.72,1,2024-02-06 04:46:00,4,1,5
+479,1ak5xd7,Hosting static site on Kubernetes,2,0.63,3,2024-02-06 09:31:09,3,1,6
+480,1ak277e,Advice Needed: Turning Poker Game Data from Google Sheets into Website Tables,2,0.76,5,2024-02-06 05:19:45,2,0,7
+481,1ak5bpt,What are some of the rising newsletters for Devs?,1,1.0,0,2024-02-06 08:46:12,1,0,1
+482,1ajzby1,Best Lightweight Framework For CPanel,3,1.0,1,2024-02-06 02:46:13,3,0,4
+483,1ajjr5m,Migrating Bootstrap 3.x to 5.x,21,0.92,11,2024-02-05 15:54:22,22,1,33
+484,1akjivd,Hostgator reduced Max domain per account to only 2 websites(it was 100 websites before) Is it a scam?,0,0.3,5,2024-02-06 20:21:30,0,0,5
+485,1ajwiel,How to Make Web Share Work with Files,4,0.75,1,2024-02-06 00:32:31,5,1,6
+486,1ajfh2q,"How many years of browser updates, versions or device manufacturers do you usually test your web app for ?",30,0.85,39,2024-02-05 12:35:59,35,5,74
+487,1ajusid,Dead pages showing up on Google,3,0.81,4,2024-02-05 23:17:42,3,0,7
+488,1ajyx1n,How to replicate the dissolve blend mode found in photoshop on an SVG rect?,2,1.0,0,2024-02-06 02:25:45,2,0,2
+489,1ajvo1q,html video controls are massive,4,0.83,0,2024-02-05 23:55:14,4,0,4
+490,1akehn0,Have you heard of this framework called rawJs??,0,0.21,6,2024-02-06 16:57:32,0,0,6
+491,1ak11f2,From JS Basics to Actually Building Stuff,2,0.62,4,2024-02-06 04:14:40,3,1,7
+492,1aj995y,Best LTS Framework?,54,0.84,73,2024-02-05 05:43:40,64,10,137
+493,1ajcqzq,Anyway to legally protect my content/app?,25,0.73,15,2024-02-05 09:40:14,34,9,49
+494,1ajzra5,eCommerce Advice,1,1.0,5,2024-02-06 03:07:10,1,0,6
+495,1ajuvin,Ideas for Offline Persistent User Storage - PWA,2,1.0,2,2024-02-05 23:21:11,2,0,4
+496,1ajusx0,Email-based transactions - best way to do it?,2,0.75,8,2024-02-05 23:18:11,2,0,10
+497,1ajk9gf,Static Roots: Objects with Compile-Time Constant Addresses,6,0.88,0,2024-02-05 16:15:38,6,0,6
+498,1ajqst8,Is there a best practise for loading async data in SSR frameworks like NextJS?,3,1.0,4,2024-02-05 20:34:36,3,0,7
+499,1akd7oa,The Absolute Minimum Every Software Developer Must Know About Unicode (Still No Excuses!),0,0.21,11,2024-02-06 16:03:50,0,0,11
+500,1ajow6w,WordPress + Yoast Not Fully Communicating with Demandware,3,0.81,4,2024-02-05 19:18:23,3,0,7
+501,1ajx68v,White labeling strategies,1,0.56,2,2024-02-06 01:02:53,1,0,3
+502,1ajjnl8,What is the best practice for confirming the deletion of a user created with a Google provider?,5,0.7,8,2024-02-05 15:50:11,7,2,15
+503,1ajwefi,A good place to host,0,0.4,7,2024-02-06 00:27:32,0,0,7
+504,1ajkia4,Hot Module Replacement is Easy,6,0.87,2,2024-02-05 16:25:44,6,0,8
+505,1ajl73h,Chromium Issue Tracker migration is complete,5,0.78,1,2024-02-05 16:53:30,6,1,7
+506,1aji94q,Keycheck - open source Nuxt web app to design better keyboard shortcuts,3,0.81,0,2024-02-05 14:49:18,3,0,3
+507,1ajt77t,For Marketing and Web agencies.,0,0.4,9,2024-02-05 22:11:55,0,0,9
+508,1akfq13,Does anyone else feel like non-developer roles are useless?,0,0.19,42,2024-02-06 17:48:49,0,0,42
+509,1aj042j,Making 33k after 12 months in London - should I look for another role?,61,0.82,60,2024-02-04 22:11:22,74,13,134
+510,1ajhi2a,"Passkey Cross-Device Sharing between web app (Vue.js), Android (Flutter), iOS (Flutter)",3,0.81,0,2024-02-05 14:15:07,3,0,3
+511,1ajpla1,How To Optimize The DOM Size In React JS?,1,0.6,0,2024-02-05 19:46:34,1,0,1
+512,1ajzwvo,My WordPress Site (Elementor + QuillForm) is Not Working Properly With Facebook Ads,0,0.3,0,2024-02-06 03:14:55,0,0,0
+513,1ak0zsq,Which of the following three should I buy?,0,0.45,23,2024-02-06 04:12:12,0,0,23
+514,1ajfw50,Next steps to get my first website running?,3,0.67,5,2024-02-05 12:58:19,4,1,9
+515,1aj25ab,"Client wants a website where people can book his appartment (synced with his booking.com and airbnb calendars), Anyone know a 3rd party solution for this?",34,0.85,14,2024-02-04 23:40:08,40,6,54
+516,1ajdr9b,Serverless Search Engine,4,0.71,4,2024-02-05 10:51:33,5,1,9
+517,1ajmrtt,Do you test your web apps with screen readers?,0,0.5,7,2024-02-05 17:54:27,0,0,7
+518,1ajm8hy,How to programatically download a video embedded into a webpage?,0,0.4,1,2024-02-05 17:33:46,0,0,1
+519,1ajqgx2,"How to run something like ""npm run dev"" on the staging server?",0,0.42,4,2024-02-05 20:21:20,0,0,4
+520,1ailocq,My experience with Figma Dev Mode as a front-end developer,219,0.95,31,2024-02-04 11:14:23,230,11,261
+521,1aj6kb8,Most employable backend framework in the Australian marketplace,12,0.72,13,2024-02-05 03:15:26,16,4,29
+522,1ajk075,Is SSO on modern SaaS CMS platforms and hosts a notable barrier to entry from legacy CMSs and hosts? Will it always be an Enterprise feature?,1,0.6,2,2024-02-05 16:04:52,1,0,3
+523,1aiol65,6 years as a paid Netlify user - My account was abruptly shut down,91,0.77,25,2024-02-04 14:03:49,118,27,143
+524,1ajhhci,What is my job?,1,0.55,5,2024-02-05 14:14:11,1,0,6
+525,1ajcy2c,Security of app?,3,0.72,3,2024-02-05 09:55:01,4,1,7
+526,1airk3o,Why are people bashing me for having frontend mentor projects on my portfolio?,50,0.77,82,2024-02-04 16:18:58,64,14,146
+527,1ajg0kx,Help a beginner out,2,0.56,12,2024-02-05 13:04:19,3,1,15
+528,1ajklub,Developing Website- freelancer question,0,0.43,3,2024-02-05 16:29:52,0,0,3
+529,1ajk1w7,Is Rails still a good choice for my use case?,0,0.42,2,2024-02-05 16:06:46,0,0,2
+530,1aj5qfq,What should my next tech stack be?,4,0.58,23,2024-02-05 02:32:02,6,2,29
+531,1aj9md3,Using open-source AI models locally,2,0.6,2,2024-02-05 06:05:27,3,1,5
+532,1aijh6a,Oh no bun is killing everything I have!,146,0.77,131,2024-02-04 08:47:01,189,43,320
+533,1ajec6t,Inline vs external stylesheet?,0,0.4,9,2024-02-05 11:28:07,0,0,9
+534,1aje6zv,"Is there a static page generator with an admin interface so that a customer could add, edit and remove static pages?",0,0.45,7,2024-02-05 11:18:54,0,0,7
+535,1ain86a,Is web scraping legal?,55,0.88,45,2024-02-04 12:52:05,62,7,107
+536,1ajhxcx,Help me pick a keyboard,0,0.4,16,2024-02-05 14:34:32,0,0,16
+537,1aj10iq,Hardening Apache APISIX with the OWASP's Coraza and Core Ruleset,9,1.0,0,2024-02-04 22:49:26,9,0,9
+538,1aiqvnu,I am open sourcing my wesite builder project,28,0.94,8,2024-02-04 15:50:25,29,1,37
+539,1aivspr,Best way to make an svg of a logo accessible?,12,0.76,33,2024-02-04 19:14:44,15,3,48
+540,1ajccui,How to build a browser,1,0.57,2,2024-02-05 09:11:19,1,0,3
+541,1aiefjs,"I’m a junior dev and I messed up Friday, I’m feeling stressed but not sure what to do.",225,0.9,96,2024-02-04 03:37:16,250,25,346
+542,1ajnmt7,My Tech Stack of 2024,0,0.26,8,2024-02-05 18:28:08,0,0,8
+543,1aj4246,"Best way to structure RESTful API endpoints (two roles, same endpoint)",3,0.67,2,2024-02-05 01:08:09,4,1,6
+544,1ajjjb7,How do I make this type of design?,0,0.33,15,2024-02-05 15:45:07,0,0,15
+545,1aj09sl,Generating code was never the hard part - Nick Scialli | Senior Software Engineer,4,0.75,0,2024-02-04 22:18:00,5,1,5
+546,1aj7f2y,where to find information on writing terms and conditions and privacy policy for a global website?,1,0.67,4,2024-02-05 04:01:20,1,0,5
+547,1aizlqu,Short Story Website,3,1.0,3,2024-02-04 21:49:51,3,0,6
+548,1aj6dj4,VS Code PHP File Refactoring Extension - anyone willing to test?,1,0.55,0,2024-02-05 03:05:26,1,0,1
+549,1aieev0,What was the worst job you had in this field?,72,0.93,90,2024-02-04 03:36:11,77,5,167
+550,1aitbr2,Any Good Vectorizer.ai Alternatives?,5,0.78,4,2024-02-04 17:32:41,6,1,10
+551,1aj3by4,Best HTML/Bootstrap tutorial?,0,0.43,2,2024-02-05 00:33:49,0,0,2
+552,1aiskdb,Code to an interface!,3,0.67,3,2024-02-04 17:00:52,4,1,7
+553,1ajf7m6,I Am Happy Not To Be A Web Developer Anymore,0,0.47,62,2024-02-05 12:21:15,0,0,62
+554,1aixs85,Storage room layout tool [no experience],2,0.76,0,2024-02-04 20:34:54,2,0,2
+555,1aiit8d,Website for Valentine's,15,0.83,27,2024-02-04 08:01:53,18,3,45
+556,1ainaua,Why does TailwindCSS need to scan my source?,5,0.57,16,2024-02-04 12:56:32,8,3,24
+557,1aiz0sf,I'm making a repo of Java code demonstrations for beginners,1,0.67,0,2024-02-04 21:25:00,1,0,1
+558,1aio5c1,Would PassportJS's success/failure redirects be useless if I am using a full stack app where the backend works as an api?,4,0.76,3,2024-02-04 13:41:40,5,1,8
+559,1ahy8ip,"Hey everyone! Just launched codeishot.com after putting in 3 months of hard work with some friends. It's a cool tool to quickly store, manage, and share code snippets with your coworkers. Hope you like it! Link in the comments",251,0.93,97,2024-02-03 15:12:04,269,18,366
+560,1aijk8a,Feed back for portfolio website. I took inspiration from other sites.,10,0.82,5,2024-02-04 08:52:57,12,2,17
+561,1ai4gad,Resume Feedback for Mid-Level Front End Dev,100,0.82,70,2024-02-03 19:48:18,121,21,191
+562,1ai8izo,"Moving from React to Angular, clear pros and cons",54,0.78,92,2024-02-03 22:48:38,69,15,161
+563,1ainbxu,Do you create files for what you learn or document?,4,0.75,11,2024-02-04 12:58:24,5,1,16
+564,1aiw6pf,What's the correct way of fetching data in sever components in next.js 14 ?,2,0.75,6,2024-02-04 19:30:39,2,0,8
+565,1aivtts,How do you build a production level website/webapp using cloud?,0,0.5,2,2024-02-04 19:16:01,0,0,2
+566,1aiv197,is there a good site to buy a .hq domain from?,1,1.0,1,2024-02-04 18:43:18,1,0,2
+567,1aiugfi,Trying to understand on updating certs,0,0.5,6,2024-02-04 18:19:25,0,0,6
+568,1ail27r,What's a good project based course for React?,4,0.75,4,2024-02-04 10:33:57,5,1,9
+569,1ahw9dj,Found forgotten private keys for Google services in production code of VS Code extension I use,188,0.97,23,2024-02-03 13:36:10,193,5,216
+570,1aiji46,How to style your application different phone screens?,5,1.0,3,2024-02-04 08:48:48,5,0,8
+571,1aitbut,What the heck happened? Adventures in Astroland,1,1.0,0,2024-02-04 17:32:47,1,0,1
+572,1ailkeq,Top JS libraries for smooth free drawing at any device?,3,1.0,1,2024-02-04 11:07:06,3,0,4
+573,1ainmn3,"Need advice, I am in my final year of college.",3,0.8,2,2024-02-04 13:14:32,3,0,5
+574,1ahtegz,The absolute worst part of being a webdev,230,0.93,89,2024-02-03 10:42:14,247,17,336
+575,1aikbvp,How to learn to do cool job description in your CV/LinkedIn?,4,0.83,4,2024-02-04 09:44:50,4,0,8
+576,1aiz4k4,Execute code online like Replit,0,0.38,10,2024-02-04 21:29:25,0,0,10
+577,1aiju2a,Where should refresh tokens be stored?,4,0.67,16,2024-02-04 09:11:10,5,1,21
+578,1aiv4ij,Do you guys think a repurposing long form YouTube video software be good?,0,0.33,6,2024-02-04 18:46:55,0,0,6
+579,1aipm0u,React/Next.JS/Tailwind/Radix.UI learning project. Image upload component?,0,0.4,4,2024-02-04 14:54:00,0,0,4
+580,1aioux7,"Non smooth, half screen scroll",0,0.5,2,2024-02-04 14:17:43,0,0,2
+581,1aiof6q,Urgent! need help with my final year major project (book recommendation system),0,0.4,2,2024-02-04 13:55:54,0,0,2
+582,1aio7pd,Pattern for handling a File in a create/edit modal? (React/Node),2,0.75,1,2024-02-04 13:45:12,2,0,3
